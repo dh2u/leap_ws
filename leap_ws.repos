@@ -1,0 +1,21 @@
+repositories:
+  leap_exp:
+    type: git
+    url: git@github.com:dh2u/leap_exp.git
+    version: main
+  leap_hand:
+    type: git
+    url: git@github.com:leap-hand/LEAP_Hand_API.git
+    version: main
+  robot_interfaces:
+    type: git
+    url: git@github.com:dh2u/robot_interfaces.git
+    version: main
+  xarm_ros2:
+    type: git
+    url: git@github.com:xArm-Developer/xarm_ros2.git
+    version: jazzy
+  xarm_stack:
+    type: git
+    url: git@github.com:dh2u/xarm_stack.git
+    version: main
